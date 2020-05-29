@@ -1,0 +1,12 @@
+Example template
+#scrapbox
+
+Hello world!
+
+Foo
+
+Bar
+
+Baz
+
+--- File end ---

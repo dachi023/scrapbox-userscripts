@@ -1,0 +1,8 @@
+a#template.tool-btn::before {
+  position: absolute;
+  content: '\f0c5';
+  font: 21px/24px 'FontAwesome';
+}
+a#template.tool-btn img {
+  opacity: 0;
+}
